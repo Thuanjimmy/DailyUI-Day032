@@ -1,0 +1,44 @@
+body {
+  background-color: #222831;
+  font-family: ubuntu;
+}
+
+.box {
+  margin: 100px auto;
+  width: 750px;
+  height: 600px;
+  background-color: #dddddd;
+  padding: 20px;
+}
+.leftside {
+  width: 320px;
+  height: 450px;
+}
+
+.rightside {
+  margin-top: 50px;
+  text-align: center;
+  font-weight: 800;
+}
+.middle {
+  text-align: left;
+  margin: 40px auto;
+}
+
+.footer {
+  color: white;
+  background-color: grey;
+  padding: 2%;
+}
+.flex {
+  text-align: center;
+}
+.bot {
+  margin-top: 25px;
+  display: flex;
+}
+.move {
+  position: relative;
+  top: 19px;
+  left: 10px;
+}
